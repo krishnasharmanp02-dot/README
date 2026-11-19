@@ -48,9 +48,9 @@ Lovely Professional University, India
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Add your LinkedIn profile URL]
-- GitHub: [Add your GitHub profile URL]
-- Email: [Add your professional email]
+- LinkedIn: [https://www.linkedin.com/in/krishna-sharma-885468406/]
+- GitHub: [https://github.com/krishnasharmanp02-dot]
+- Email: [krishna.sharma.np02@gmail.com]
 
 ---
 
